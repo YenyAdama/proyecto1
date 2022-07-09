@@ -1,0 +1,12 @@
+#content {
+    background-color: #00D1AC;
+    width: 200px;
+    height: 100px;
+    margin:50px;
+    font-size:12px;
+    font-family: Verdana;
+
+  }
+.other-text{
+    background-color: pink;
+}
